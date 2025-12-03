@@ -1,92 +1,70 @@
 [
     {
         "id": "prod_001",
-        "name": "Borsetta Rosa Ecopelle",
-        "category": "Bags",
+        "name": "Borsetta Rosa",
+        "material": "ecopelle",
         "colors": [
-            "pink",
-            "rose"
+            "rosa"
         ],
         "style": [
-            "chic",
-            "day"
+            "elegante",
+            "quotidiano"
         ],
-        "material": "faux leather",
         "images": [
             "products/web/borsetta-rosa-ecopelle.jpg"
         ],
-        "description": "Bellissima borsetta rosa in ecopelle, perfetta per ogni occasione.",
+        "description": "Bellissima borsetta rosa in ecopelle, perfetta per ogni occasione. Realizzata a mano con cura e attenzione ai dettagli.",
         "linkVinted": "https://www.vinted.it/member/112570499"
     },
     {
         "id": "prod_002",
-        "name": "Borsetta Nera Velluto",
-        "category": "Bags",
+        "name": "Borsetta Nera",
+        "material": "velluto",
         "colors": [
-            "black"
+            "nero"
         ],
         "style": [
-            "elegant",
-            "evening"
+            "elegante",
+            "serale"
         ],
-        "material": "velvet",
         "images": [
             "products/web/borsetta-nera-velluto.jpg"
         ],
-        "description": "Elegante borsetta nera in velluto morbido.",
+        "description": "Elegante borsetta nera in velluto morbido. Un accessorio raffinato per le tue serate speciali.",
         "linkVinted": "https://www.vinted.it/member/112570499"
     },
     {
         "id": "prod_003",
-        "name": "Borsetta Nera Ecopelle",
-        "category": "Bags",
+        "name": "Borsetta Nera Classica",
+        "material": "ecopelle",
         "colors": [
-            "black"
+            "nero"
         ],
         "style": [
-            "modern",
-            "rock"
+            "moderno",
+            "versatile"
         ],
-        "material": "faux leather",
         "images": [
             "products/web/borsetta-nera-ecopelle.jpg"
         ],
-        "description": "Borsetta nera in ecopelle, un classico intramontabile.",
+        "description": "Borsetta nera in ecopelle di alta qualità. Un classico intramontabile fatto a mano.",
         "linkVinted": "https://www.vinted.it/member/112570499"
     },
     {
         "id": "prod_004",
-        "name": "Borsetta Marrone Velluto",
-        "category": "Bags",
+        "name": "Borsetta Marrone",
+        "material": "velluto",
         "colors": [
-            "brown"
+            "marrone"
         ],
         "style": [
             "vintage",
-            "cozy"
+            "accogliente"
         ],
-        "material": "velvet",
         "images": [
             "products/web/borsetta-marrone-velluto.jpg"
         ],
-        "description": "Borsetta marrone in velluto, calda e accogliente.",
-        "linkVinted": "https://www.vinted.it/member/112570499"
-    },
-    {
-        "id": "prod_005",
-        "name": "Collezione Completa",
-        "category": "Totes",
-        "colors": [
-            "mixed"
-        ],
-        "style": [
-            "collection"
-        ],
-        "material": "mixed",
-        "images": [
-            "products/web/tante-borsette-insieme.jpg"
-        ],
-        "description": "Una vista d'insieme delle nostre creazioni uniche.",
+        "description": "Borsetta marrone in velluto, calda e accogliente. Perfetta per uno stile bohémien.",
         "linkVinted": "https://www.vinted.it/member/112570499"
     }
 ]
