@@ -1,0 +1,92 @@
+[
+    {
+        "id": "prod_001",
+        "name": "Borsetta Rosa Ecopelle",
+        "category": "Bags",
+        "colors": [
+            "pink",
+            "rose"
+        ],
+        "style": [
+            "chic",
+            "day"
+        ],
+        "material": "faux leather",
+        "images": [
+            "products/web/borsetta-rosa-ecopelle.jpg"
+        ],
+        "description": "Bellissima borsetta rosa in ecopelle, perfetta per ogni occasione.",
+        "linkVinted": "https://www.vinted.com/"
+    },
+    {
+        "id": "prod_002",
+        "name": "Borsetta Nera Velluto",
+        "category": "Bags",
+        "colors": [
+            "black"
+        ],
+        "style": [
+            "elegant",
+            "evening"
+        ],
+        "material": "velvet",
+        "images": [
+            "products/web/borsetta-nera-velluto.jpg"
+        ],
+        "description": "Elegante borsetta nera in velluto morbido.",
+        "linkVinted": "https://www.vinted.com/"
+    },
+    {
+        "id": "prod_003",
+        "name": "Borsetta Nera Ecopelle",
+        "category": "Bags",
+        "colors": [
+            "black"
+        ],
+        "style": [
+            "modern",
+            "rock"
+        ],
+        "material": "faux leather",
+        "images": [
+            "products/web/borsetta-nera-ecopelle.jpg"
+        ],
+        "description": "Borsetta nera in ecopelle, un classico intramontabile.",
+        "linkVinted": "https://www.vinted.com/"
+    },
+    {
+        "id": "prod_004",
+        "name": "Borsetta Marrone Velluto",
+        "category": "Bags",
+        "colors": [
+            "brown"
+        ],
+        "style": [
+            "vintage",
+            "cozy"
+        ],
+        "material": "velvet",
+        "images": [
+            "products/web/borsetta-marrone-velluto.jpg"
+        ],
+        "description": "Borsetta marrone in velluto, calda e accogliente.",
+        "linkVinted": "https://www.vinted.com/"
+    },
+    {
+        "id": "prod_005",
+        "name": "Collezione Completa",
+        "category": "Totes",
+        "colors": [
+            "mixed"
+        ],
+        "style": [
+            "collection"
+        ],
+        "material": "mixed",
+        "images": [
+            "products/web/tante-borsette-insieme.jpg"
+        ],
+        "description": "Una vista d'insieme delle nostre creazioni uniche.",
+        "linkVinted": "https://www.vinted.com/"
+    }
+]
