@@ -66,5 +66,22 @@
         ],
         "description": "Borsetta marrone in velluto, calda e accogliente. Perfetta per uno stile bohémien.",
         "linkVinted": "https://www.vinted.it/member/112570499"
+    },
+    {
+        "id": "prod_005",
+        "name": "Borsetta Cotone Blu",
+        "material": "cotone",
+        "colors": [
+            "blu"
+        ],
+        "style": [
+            "casual",
+            "estivo"
+        ],
+        "images": [
+            "products/web/borsetta_cotone_blu.png"
+        ],
+        "description": "Borsetta in cotone blu fatta a mano, ideale per l'estate.",
+        "linkVinted": "https://www.vinted.it/member/112570499"
     }
 ]
